@@ -227,14 +227,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // 8. BACKGROUND MUSIC PLAYER
     // ==========================================
     const tracks = [
-        { name: "Payung Teduh - Berdua Saja", path: "Music/01%20Berdua%20Saja.m4a" },
-        { name: "Payung Teduh - Menuju Senja", path: "Music/02%20Menuju%20Senja.m4a" },
         { name: "Payung Teduh - Untuk Perempuan Yang Sedang Di Pelukan", path: "Music/03%20Untuk%20Perempuan%20Yang%20Sedang%20Di%20Pe.m4a" },
-        { name: "Payung Teduh - Rahasia", path: "Music/04%20Rahasia.m4a" },
-        { name: "Payung Teduh - Angin Pujaan Hujan", path: "Music/05%20Angin%20Pujaan%20Hujan.m4a" },
-        { name: "Payung Teduh - Di Ujung Malam", path: "Music/06%20Di%20Ujung%20Malam.m4a" },
         { name: "Payung Teduh - Resah", path: "Music/07%20Resah.m4a" },
-        { name: "Payung Teduh - Biarkan", path: "Music/08%20Biarkan.m4a" }
     ];
 
     let currentTrackIndex = 0;
